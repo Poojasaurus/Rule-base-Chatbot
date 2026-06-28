@@ -1,4 +1,4 @@
-# 🤖 DecodeBot Pro
+#  DecodeBot Pro
 
 A professional Rule-Based AI Chatbot built using Python. DecodeBot Pro simulates natural conversations using predefined intents and responses while providing useful utilities like a calculator, chat history, date & time, and a colorful terminal interface.
 
